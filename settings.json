@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "IQOPop303op.aternos.me",
-    "port": 17156,
+    "port": 25565,
     "version": "1.21.1",
     "try-creative": false
   },
